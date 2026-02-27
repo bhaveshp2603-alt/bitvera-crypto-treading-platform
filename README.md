@@ -1,4 +1,4 @@
-# Bitvera - Crypto Trading Platform
+# Bitvera - Crypto Treading Platform
 ## 📌 Project Overview
 
 Bitvera is a full-stack cryptocurrency trading platform built using Java and Spring Boot for the backend and React.js with Redux for the frontend. The platform integrates the CoinGecko API to fetch real-time cryptocurrency market data.
@@ -32,35 +32,38 @@ Bitvera simulates a real-world crypto trading environment similar to Binance and
 Modern and secure login interface with dark theme and glass-style UI design. 
 Includes user authentication with JWT-based security and protected routing.
 
----
+![Authentication Page](assets/screenshots/login.png)
 
 ### 📊 Market Dashboard
 Real-time cryptocurrency listings displaying market cap, volume, 24h change, and price updates. 
 Integrated filtering options such as Top 50, Gainers, and Losers for better market analysis.
 
----
+![Market Dashboard](assets/screenshots/Dashboard.png)
 
 ### 📈 Coin Price Chart
 Interactive real-time price chart with multiple time filters (1 Day, 1 Week, 1 Month, 1 Year). 
 Enables users to analyze historical trends and market movements before making trading decisions.
 
----
+![Coin Price Chart](assets/screenshots/Coin-chart.png)
 
-### 💱 Trade – Buy & Sell Crypto
+### 💱 Treade – Buy & Sell Crypto
 Secure trading interface allowing users to buy and sell cryptocurrencies with live price synchronization. 
 Orders update wallet balances instantly and reflect in portfolio and transaction history.
 
----
+![Treade – Buy & Sell Crypto](assets/screenshots/Treadepage.png)
 
 ### 👛 Wallet Management
 Comprehensive wallet system supporting deposits, wallet-to-wallet transfers, and withdrawals to bank accounts. 
 Includes full transaction history tracking with secure validation.
 
----
+![Wallet Management](assets/screenshots/Wallet.png)
 
 ### 📂 Navigation & User Control Panel
 Structured side navigation providing quick access to Portfolio, Watchlist, Activity, Wallet, Payment Details, Withdrawal, and Profile management. 
 Ensures smooth and intuitive user experience across the platform.
+
+![Navigation & User Control Panel](assets/screenshots/SideBar.png)
+
 ## 🏗️ Tech Stack
 
 ### 🔹 Backend
